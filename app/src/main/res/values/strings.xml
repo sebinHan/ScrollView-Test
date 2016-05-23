@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScrollViewTest</string>
+    <string name="but_01">미림</string>
+    <string name="but_02">여자</string>
+    <string name="but_03">정보</string>
+    <string name="but_04">과학</string>
+    <string name="but_05">고!</string>
+
+</resources>
